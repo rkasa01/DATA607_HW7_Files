@@ -3,21 +3,21 @@
     <Title>The Man Who Mistook His Wife for a Hat</Title>
     <Author>Oliver Sacks</Author>
     <Reason1>I enjoy the writing style of Oliver Sacks.</Reason1>
-    <Reason2>This is a book of interesting case studies...</Reason2>
-    <Reason3>This book was gifted to me by one of my former mentors...</Reason3>
+    <Reason2>This is a book of interesting case studies.</Reason2>
+    <Reason3>This book was gifted to me by one of my former mentors.</Reason3>
   </Book>
   <Book>
     <Title>Clinical Psychopharmacology Made Ridiculously Simple</Title>
     <Author>John Preston, James Johnson</Author>
     <Reason1>I used this book through a challenging Psychopharmacology course in college.</Reason1>
-    <Reason2>It's written in a humorous style...</Reason2>
+    <Reason2>It's written in a humorous style.</Reason2>
     <Reason3>I got an A in the class!</Reason3>
   </Book>
   <Book>
     <Title>When Breath Becomes Air</Title>
     <Author>Paul Kalanithi</Author>
-    <Reason1>This is an autobiography by neurosurgeon, Dr. Paul Kalanithi...</Reason1>
-    <Reason2>It helped me navigate the death of a loved one...</Reason2>
-    <Reason3>It's one of the most beautiful books I have ever read...</Reason3>
+    <Reason1>This is an autobiography by neurosurgeon, Dr. Paul Kalanithi, with worsening lung cancer.</Reason1>
+    <Reason2>It helped me navigate the death of a loved one with cancer.</Reason2>
+    <Reason3>It's one of the most beautiful books I have ever read and is very special to me.</Reason3>
   </Book>
 </Books>
