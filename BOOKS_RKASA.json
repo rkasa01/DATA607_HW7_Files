@@ -1,0 +1,49 @@
+{
+  "html": {
+    "head": {
+      "title": "Favorite books on Neuroscience"
+    },
+    "body": {
+      "table": {
+        "tr": [
+          {
+            "th": [
+              "Title",
+              "Author",
+              "Reason 1",
+              "Reason 2",
+              "Reason 3"
+            ]
+          },
+          {
+            "td": [
+              "The Man Who Mistook His Wife for a Hat",
+              "Oliver Sacks",
+              "I enjoy the writing style of Oliver Sacks.",
+              "This is a book of interesting case studies, titled by a situation which occurs to a patient with visual agnosia. It's a great place to start for neuroscience beginners.",
+              "This book was gifted to me by one of my former mentors and has a note inside. It has immense sentimental value for me."
+            ]
+          },
+          {
+            "td": [
+              "Clinical Psychopharmacology Made Ridiculously Simple",
+              "John Preston, James Johnson",
+              "I used this book through a challenging Psychopharmacology course in college.",
+              "It's written in a humorous style, making psychopharmacology into a subject for anyone.",
+              "I got an A in the class!"
+            ]
+          },
+          {
+            "td": [
+              "When Breath Becomes Air",
+              "Paul Kalanithi",
+              "This is an autobiography by neurosurgeon, Dr. Paul Kalanithi, with worsening lung cancer and a passion for writing.",
+              "It helped me navigate the death of a loved one who was also battling cancer at the time.",
+              "It's one of the most beautiful books I have ever read and is very special to me."
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
